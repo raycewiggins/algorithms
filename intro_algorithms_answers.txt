@@ -1,0 +1,34 @@
+1. Everyday Pseudocode
+Calculating a Tip
+
+Set bill_total to total
+Set tip to 0
+If service_good = true
+  set tip = 1.15
+Else
+  set tip = 1.10
+End
+Return total*tip
+
+
+Determining What to Wear
+
+case weather
+when temperature is between 0-32
+  "Wear lots of layers"
+when is temperature between 32-56
+  "Wear at pants and a jackets"
+when is between 56-76
+  "Wear pants and a short sleeve shirt. Bring a jacket for the day"
+when temperature is between 76-100
+    "Wear shorts and a t-shirt"
+
+
+Getting to Work
+case traffic
+when traffic is "light"
+  "Take normal highway route"
+when traffic is "moderate"
+  "Take normal route, but leave earlier."
+when traffic is "heavy"
+  "Use Google Maps to navigate optimal detour route."
